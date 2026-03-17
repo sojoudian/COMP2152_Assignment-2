@@ -32,9 +32,6 @@ common_ports = {
     8080: "HTTP-Alt"
 }
 
-
-
-
 class NetworkTool:
     """Parent class representing a generic network tool."""
 
